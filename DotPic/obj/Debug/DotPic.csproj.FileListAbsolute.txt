@@ -1,0 +1,10 @@
+C:\Users\share\Projects\DotPic\DotPic\obj\Debug\DotPic.Properties.Resources.resources
+C:\Users\share\Projects\DotPic\DotPic\obj\Debug\DotPic.csproj.GenerateResource.Cache
+C:\Users\share\Projects\DotPic\DotPic\obj\Debug\DotPic.csproj.CoreCompileInputs.cache
+C:\Users\share\Projects\DotPic\DotPic\bin\Debug\DotPic.exe.config
+C:\Users\share\Projects\DotPic\DotPic\bin\Debug\DotPic.exe
+C:\Users\share\Projects\DotPic\DotPic\bin\Debug\DotPic.pdb
+C:\Users\share\Projects\DotPic\DotPic\obj\Debug\DotPic.exe
+C:\Users\share\Projects\DotPic\DotPic\obj\Debug\DotPic.pdb
+C:\Users\share\Projects\DotPic\DotPic\obj\Debug\DotPic.Form1.resources
+C:\Users\share\Projects\DotPic\DotPic\obj\Debug\DotPic.csprojResolveAssemblyReference.cache
